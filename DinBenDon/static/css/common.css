@@ -1,0 +1,15 @@
+body {
+  padding-top: 40px;
+}
+#header {
+  margin-top: 20px;
+  margin-bottom: 7px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid #DDD;
+}
+#header h1 {
+  font-size: 36px;
+}
+.dropdown-menu i {
+  margin-right: 5px;
+}
